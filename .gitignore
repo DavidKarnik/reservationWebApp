@@ -1,0 +1,13 @@
+backend/HELP.md
+
+!.mvn/wrapper/maven-wrapper.jar
+
+backend/target/
+
+# buildy ve složce backend/src/main a backend/src/test
+backend/src/main/**/target/
+backend/src/test/**/target/
+backend/src/main/**/build/
+backend/src/test/**/build/
+
+backend/.idea/
