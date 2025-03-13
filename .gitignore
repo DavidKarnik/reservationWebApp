@@ -11,3 +11,6 @@ backend/src/main/**/build/
 backend/src/test/**/build/
 
 backend/.idea/
+
+backend/.gitattributes
+backend/.gitignore
