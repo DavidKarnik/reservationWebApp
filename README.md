@@ -6,6 +6,8 @@ On-line booking system mainly for conference rooms. The project focuses on visua
 
 This is personal project for revise and learn more about whole application development. Aiming  on full-stack (frontend, backend, devops), system architecture, project roles and managment, sustainability, modern technologies and best practices. I want to deepen my knowledge of frontend development using React and Tailwind CSS. For the backend, I will use Spring Boot with Maven to build a robust, scalable and hopefully secure system. Also, I want to dive deeper into DevOps, including containerization, orchestration, automated deployment, and the usage of management and monitoring tools.
 
+## Used SW
+
 ## PostgreSQL Database
 
 Open-source object-relational database system that offers high performance, scalability, and robust data management features. Almost too robust for my project, but I want to try this database and learn how it works. I used it also because of:
@@ -51,3 +53,6 @@ So PostgreSQL should be fast, stable and secure.
 | `role`     | `VARCHAR(50)` | User role (`admin`, `user`)          |
 
 - Future extensibility (e.g., notifications (when, how), pricing, AI recommendations)
+
+## File Structure
+
