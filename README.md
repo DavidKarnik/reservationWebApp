@@ -6,6 +6,23 @@ On-line booking system mainly for conference rooms. The project focuses on visua
 
 This is personal project for revise and learn more about whole application development. Aiming  on full-stack (frontend, backend, devops), system architecture, project roles and managment, sustainability, modern technologies and best practices. I want to deepen my knowledge of frontend development using React and Tailwind CSS. For the backend, I will use Spring Boot with Maven to build a robust, scalable and hopefully secure system. Also, I want to dive deeper into DevOps, including containerization, orchestration, automated deployment, and the usage of management and monitoring tools.
 
+## Architecture
+
+```bash
+└── frontend/
+    ├── aaa/
+    │   └── aab
+    └── bbb/
+        ├── bbc.js
+        └── bbd.css
+└── backend/
+    └── src/main
+        ├── backend/
+        └── resources/
+├── .gitignore
+└── README.md
+```
+
 ## Used SW
 
 ## PostgreSQL Database
