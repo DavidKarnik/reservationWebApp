@@ -9,6 +9,7 @@ This is personal project for revise and learn more about whole application devel
 ## Architecture
 
 ```bash
+./
 └── frontend/
     ├── aaa/
     │   └── aab
