@@ -74,5 +74,4 @@ So PostgreSQL should be fast, stable and secure.
 
 - Future extensibility (e.g., notifications (when, how), pricing, AI recommendations)
 
-## File Structure
 
